@@ -51,7 +51,7 @@ There are currently no testing procedures for this application
 
 ## License 📝 <a name="license"></a>
 
-This project is **`MIT`** licensed
+This project is **`Massachusetts Institute of Technology`** licensed
 
 ---
 
